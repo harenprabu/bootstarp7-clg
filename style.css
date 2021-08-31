@@ -1,0 +1,8 @@
+.btm_menu ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.btm_menu ul li a:hover {
+    color: #999;
+}
